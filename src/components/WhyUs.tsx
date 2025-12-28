@@ -47,7 +47,7 @@ export default function WhyUs() {
           </div>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
             Perché scegliere{' '}
-            <span className="text-[#1a5a45]">Studio Capitoli</span>
+            <span className="text-[#1a5a45] whitespace-nowrap">Studio Capitoli</span>
           </h2>
           <p className="text-lg text-gray-600">
             Non siamo un semplice studio di commercialisti. Siamo il tuo partner
