@@ -1,0 +1,9 @@
+# robots.txt for Studio Capitoli
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://studiocapitoli.it/sitemap.xml
+
+# Crawl-delay (optional, for polite crawling)
+Crawl-delay: 1
